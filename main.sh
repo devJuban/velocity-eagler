@@ -1,4 +1,3 @@
-#!/bin/bash
 cd velocity
 
 echo "Your MOTD (eagler only): $MOTD"
