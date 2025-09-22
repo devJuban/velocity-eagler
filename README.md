@@ -11,9 +11,7 @@
 
 <h1> Updates: </h1>
 
-<h2> Update 1.0.0: </h2>
-<p> Added a divider</p>
-<p> Updated to Java 21</p>
+<p> CURRENLY BROKEN WORKING ON FIX SOON! (SORRY!)</>
 
 <h1> Things to know: </h1>
 <p> This will <b>NOT</b> work with 2 or more server! (as Render does <b>NOT</b> support a raw tcp connection, which normal minecraft needs!)</p>
