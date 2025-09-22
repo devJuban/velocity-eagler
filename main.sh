@@ -17,5 +17,5 @@ sed -i 's/${MOTD}/'"$MOTD"'/g' listeners.toml
 cd ..
 cd ..
 
-echo "Starting Velocity!"
+echo "Starting Velocity"
 java -Xmx512M -Xms512M -jar velocity.jar
