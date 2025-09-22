@@ -19,10 +19,7 @@ cd plugins/eaglerxserver
 
 sed -i 's/${MOTD}/'"$MOTD"'/g' listeners.toml
 
-cd ../../..
-
-chmod +x pinger.sh
-./pinger.sh &
+cd ../..
 
 cd velocity
 
