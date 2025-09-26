@@ -9,9 +9,5 @@
 <p> Step 6: Change SERVER to your server ip, Change MAXPLAYERS to what you want you max players to be, Change MOTD to your MOTD.</p>
 <p> Step 7: Click "Deploy Web Service"</p>
 
-<h1> Updates: </h1>
-
-<p> CURRENLY BROKEN WORKING ON FIX SOON! (SORRY!)</>
-
 <h1> Things to know: </h1>
 <p> This will <b>NOT</b> work with 2 or more server! (as Render does <b>NOT</b> support a raw tcp connection, which normal minecraft needs!)</p>
