@@ -10,4 +10,4 @@
 <p> Step 7: Click "Deploy Web Service"</p>
 
 <h1> Things to know: </h1>
-<p> This will <b>NOT</b> work with 2 or more server! (as Render does <b>NOT</b> support a raw tcp connection, which normal minecraft needs!)</p>
+<p> You can create a 2 or more server but  it would only let eagler players join. This is due to Render not supporting a TCP connection which Java/Cracked players need.</p>
