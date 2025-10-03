@@ -9,5 +9,4 @@
 <p> Step 6: Change SERVER to your server ip, Change MAXPLAYERS to what you want you max players to be, Change MOTD to your MOTD.</p>
 <p> Step 7: Click "Deploy Web Service"</p>
 
-<h1> Things to know: </h1>
-<p> You can create a 2 or more server but  it would only let eagler players join. This is due to Render not supporting a TCP connection which Java/Cracked players need.</p>
+<p> <b> You can create a 2 or more server but  it would only let eagler players join. This is due to Render not supporting a TCP connection which Java/Cracked players need. </b> </p>
