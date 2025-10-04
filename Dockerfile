@@ -1,4 +1,4 @@
-FROM eclipse-temurin:17-jdk-jammy
+FROM eclipse-temurin:21-jdk
 COPY . .
 RUN chmod +x main.sh
 CMD ["./main.sh"]
