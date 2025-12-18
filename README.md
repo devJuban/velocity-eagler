@@ -47,7 +47,7 @@ vje(velocity-javaxeagler) - same thing as ve but is **a lot** safer.
 <h2>velocity-eagler vs velocity-javaxeagler: </h2>
 
 <p> 
-    <a href="https://github.com/devJuban/velocity-javaxeagler/">velocity-eagler</a>
+    <a href="https://example.com">velocity-eagler</a>
     : Lets Java and Eagler players to join but you <b>can't</b> use proxy plugin features(eg. ip bans, ip logins)
 </p>
 
@@ -60,7 +60,7 @@ vje(velocity-javaxeagler) - same thing as ve but is **a lot** safer.
 <hr>
 
 <p> 
-    <a href="example.com">velocity-javaxeagler</a>
+    <a href="https://github.com/devJuban/velocity-javaxeagler/">velocity-javaxeagler</a>
     : Lets Java and Eagler players to join so you <b>can</b> use proxy plugin features(eg. ip bans, ip logins)
 </p>
 
