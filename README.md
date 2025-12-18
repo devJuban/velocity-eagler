@@ -1,3 +1,25 @@
+> [!CAUTION]
+> velocity-eagler is **NO** longer supported. Read the note below.
+
+# NOTE
+
+I have decided that velocity-eagler will **no longer** recieve update...
+
+## Why?
+
+> [!NOTE]
+> velocity-eagler is later refered to as ve
+> velocity-javaxeagler is later refered as vje
+
+velocity-eagler is very **insecure** and is **NOT** recommended to use for futher use.
+
+## Alternatives
+
+> [!NOTE]
+> vje is going to be supported for a few more months/years.
+
+vje(velocity-javaxeagler) - same thing as ve but is **a lot** safer.
+
 <html>
 
 <head></head>
