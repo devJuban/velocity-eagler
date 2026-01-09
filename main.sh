@@ -29,7 +29,8 @@ cd ..
 
 rmdir images
 
-while true; do curl $RENDER ; sleep 120; done &
+while true; do sleep 120; curl $RENDER ; echo "CRITICAL: velocity-eagler is NO longer supported! Consider switching to velocity-javaxeagler." ; done &
 
+echo "CRITICAL: velocity-eagler is NO longer supported! Consider switching to velocity-javaxeagler."
 echo "Starting Velocity | For Render"
 java -Xmx512M -Xms512M -jar velocity.jar
